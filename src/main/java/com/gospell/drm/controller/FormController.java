@@ -13,10 +13,6 @@ import com.gospell.drm.integrate.User;
 
 /**
  * 控制器: 表单的验证--使用Hibernate-validate
- * 
- * @author 	Lian
- * @date	2016年5月18日
- * @since	1.0
  */
 @Controller
 @RequestMapping("/form")

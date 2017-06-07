@@ -8,10 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * User Controller
- * 
- * @author 	Lian
- * @date	2016年5月18日
- * @since	1.0
  */
 @Controller
 @RequestMapping("/integrate")

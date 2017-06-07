@@ -7,10 +7,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * 控制器: 处理局部异常(Controller内)
- * 
- * @author 	Lian
- * @date	2016年5月17日
- * @since	1.0
  */
 @Controller
 @RequestMapping("/exception")

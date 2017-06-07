@@ -6,10 +6,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  * 控制器: 使用@RequestParam注解指定参数的name
- * 
- * @author 	Lian
- * @date	2016年5月17日
- * @since	1.0
  */
 @Controller
 @RequestMapping("/test")

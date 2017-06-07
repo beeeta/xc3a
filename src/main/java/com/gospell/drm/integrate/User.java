@@ -9,10 +9,6 @@ import org.springframework.format.annotation.DateTimeFormat;
 
 /**
  * User Model
- * 
- * @author 	Lian
- * @date	2016年5月18日
- * @since	1.0
  */
 public class User {
 
